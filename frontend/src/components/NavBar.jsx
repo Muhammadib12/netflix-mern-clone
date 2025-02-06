@@ -22,7 +22,7 @@ function NavBar() {
     <header className="max-w-6xl relative mx-auto flex flex-wrap items-center justify-between p-4 h-20">
         <div className="flex items-center gap-10 z-50 ">
             <Link to={"/"}>
-                <img src='/ultraflix.jpg' alt='netflixlogo' className='w-32 sm:w-40 bg-transparent border border-none' />
+            <img src='/ultra.png' alt='netflixlogo' className='w-32 sm:w-40  bg-transparent border-0 block' />
             </Link>
 
             {/* Desktop navbar items */}
